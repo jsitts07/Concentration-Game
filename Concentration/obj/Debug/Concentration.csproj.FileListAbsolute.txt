@@ -1,0 +1,10 @@
+C:\Users\Jason\Desktop\Concentration\Concentration\bin\Debug\Concentration.exe.config
+C:\Users\Jason\Desktop\Concentration\Concentration\bin\Debug\Concentration.exe
+C:\Users\Jason\Desktop\Concentration\Concentration\bin\Debug\Concentration.pdb
+C:\Users\Jason\Desktop\Concentration\Concentration\obj\Debug\Concentration.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Concentration\Concentration\obj\Debug\Concentration.Form1.resources
+C:\Users\Jason\Desktop\Concentration\Concentration\obj\Debug\Concentration.Properties.Resources.resources
+C:\Users\Jason\Desktop\Concentration\Concentration\obj\Debug\Concentration.csproj.GenerateResource.Cache
+C:\Users\Jason\Desktop\Concentration\Concentration\obj\Debug\Concentration.exe
+C:\Users\Jason\Desktop\Concentration\Concentration\obj\Debug\Concentration.pdb
+C:\Users\Jason\Desktop\Concentration\Concentration\obj\Debug\Concentration.AboutBox1.resources
